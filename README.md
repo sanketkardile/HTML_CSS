@@ -1,2 +1,2 @@
-# Coursera-Test
-Coursera HTML CSS JS
+# HTML CSS
+ HTML CSS JS
